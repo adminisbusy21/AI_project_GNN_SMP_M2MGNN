@@ -1,0 +1,7 @@
+comparison,dataset,model,test_accuracy,edge_homophily
+baseline,Texas,MLP,0.7568,0.0615
+baseline,Texas,GCN,0.6216,0.0615
+baseline,Cora,MLP,0.7304,0.8100
+baseline,Cora,GCN,0.8692,0.8100
+m2mgnn,Texas,M2M-GNN,0.8108,0.0615
+m2mgnn,Cora,M2M-GNN,0.8652,0.8100

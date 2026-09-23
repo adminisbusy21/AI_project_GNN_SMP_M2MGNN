@@ -1,0 +1,5 @@
+PyTorch: 2.10.0+cu128
+CUDA available: True
+CUDA version: 12.8
+GPU: NVIDIA GeForce RTX 4050 Laptop GPU
+Baseline datasets: Wisconsin, Texas, Cornell, Actor

@@ -1,0 +1,11 @@
+experiment,parameter,value,mean_accuracy,std_accuracy,mean_epochs
+beta_sensitivity,beta,0.0,0.6676,0.0793,470.5
+beta_sensitivity,beta,0.25,0.8270,0.0619,475.2
+beta_sensitivity,beta,0.5,0.8811,0.0439,359.7
+beta_sensitivity,beta,0.75,0.8541,0.0386,349.1
+beta_sensitivity,beta,1.0,0.8216,0.0439,369.8
+c_sensitivity,c,1,0.8649,0.0567,444.7
+c_sensitivity,c,2,0.8649,0.0483,477.5
+c_sensitivity,c,3,0.8649,0.0554,362.7
+c_sensitivity,c,5,0.8757,0.0501,359.0
+c_sensitivity,c,8,0.8730,0.0568,364.2
